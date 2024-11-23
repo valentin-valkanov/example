@@ -38,5 +38,4 @@ class Job
 
         return $job;
     }
-
 }
