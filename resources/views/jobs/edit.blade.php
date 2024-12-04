@@ -55,7 +55,7 @@
                 <button form="delete-form" class="text-red-500 text-sm font-bold">Delete</button>
             </div>
 
-            <div class="flex item-centre gap-x-6">
+            <div class="mt-6 flex items-center justify-end gap-x-6">
                 <a href="/jobs/{{ $job->id }}" class="text-sm font-semibold leading-6 text-gray-900">Cancel</a>
                 <div>
                     <button type="submit"
