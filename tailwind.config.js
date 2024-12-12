@@ -14,6 +14,10 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+
+            colors: {
+                "laracasts": "rgb(50, 38, 241)"
+            }
         },
     },
     plugins: [],
